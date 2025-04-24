@@ -168,7 +168,7 @@ financial_trading_inputs = {
 }
 
 ### this execution will take some time to run
-# result = financial_trading_crew.kickoff(inputs=financial_trading_inputs)
+result = financial_trading_crew.kickoff(inputs=financial_trading_inputs)
 
-# print(result)
+print(result)
 
